@@ -11,4 +11,4 @@ project 1
 9. git push origin master
 
 if you want to pull
-git pull origin master
+10 .git pull origin master
